@@ -1,0 +1,8 @@
+org/geico/rsa/service/RoadsideAssistanceService.class
+org/geico/rsa/util/RSACommonUtils.class
+org/geico/rsa/service/DataLoad.class
+org/geico/rsa/entity/Assistant.class
+org/geico/rsa/RoadSideAssistanceApplication.class
+org/geico/rsa/service/RoadsideAssistanceServiceImpl.class
+org/geico/rsa/entity/Geolocation.class
+org/geico/rsa/entity/Customer.class
